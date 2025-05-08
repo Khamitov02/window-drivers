@@ -1,0 +1,57 @@
+;
+; MyDriverWdm.inf
+;
+
+; https://docs.microsoft.com/en-us/windows-hardware/drivers/develop/creating-a-primitive-driver
+; SERVICE_KERNEL_DRIVER - https://docs.microsoft.com/en-us/windows-hardware/drivers/install/system-defined-device-setup-classes-available-to-vendors
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider=%ProviderName%
+DriverVer = 05/08/2025,12.53.4.493
+CatalogFile=MyDriverWdm.cat
+PnpLockdown=1
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+MyDriverWdm.sys  = 1,,
+
+[MyDriverFiles]
+MyDriverWdm.sys
+
+[DefaultInstall.NTamd64]
+OptionDesc = %DriverDescription%
+CopyFiles  = MyDriverFiles
+
+[DefaultInstall.NTamd64.Services]
+AddService = %ServiceName%,, MyService_Install
+
+[DefaultUninstall.NTamd64]
+LegacyUninstall=1
+; DelFiles   = MyDriverFiles
+
+[DefaultUninstall.NTamd64.Services]
+LegacyUninstall=1
+DelService = %ServiceName%,0x200
+
+[MyService_Install]
+DisplayName    = %ServiceName%
+Description    = %ServiceDesc%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\MyDriverWdm.sys
+
+[Strings]
+ProviderName="TestTest" ;TODO: Replace with your manufacturer name
+DriverDescription="MyDriverWdm driver"
+DiskName="MyDriverWdm Source Disk"
+ServiceDesc = "MyDriverWdm driver"
+ServiceName = "MyDriverWdm"
