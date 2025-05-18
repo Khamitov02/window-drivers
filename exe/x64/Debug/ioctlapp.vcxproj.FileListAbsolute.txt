@@ -1,0 +1,1 @@
+C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\exe\x64\Debug\ioctlapp.exe

@@ -1,0 +1,6 @@
+﻿  Building 'ioctlapp' with toolset 'WindowsApplicationForDrivers10.0' and the 'Windows Driver' target platform.
+  install.c
+  testapp.c
+  Generating Code...
+  ioctlapp.vcxproj -> C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\exe\x64\Debug\ioctlapp.exe
+  Driver is 'Windows Driver'.
