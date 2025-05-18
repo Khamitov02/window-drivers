@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{61899E58-10C2-4EB1-9508-58AE7DC3B3A9}|exe\\ioctlapp.vcxproj|solutionrelative:exe\\install.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61899E58-10C2-4EB1-9508-58AE7DC3B3A9}|exe\\ioctlapp.vcxproj|C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\testapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61899E58-10C2-4EB1-9508-58AE7DC3B3A9}|exe\\ioctlapp.vcxproj|solutionrelative:exe\\testapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,14 +30,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "testapp.c",
-              "DocumentMoniker": "C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\testapp.c",
-              "RelativeDocumentMoniker": "exe\\testapp.c",
-              "ToolTip": "C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\testapp.c",
-              "RelativeToolTip": "exe\\testapp.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-18T09:28:19.486Z"
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAlwBICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-18T21:19:03.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,9 +48,22 @@
               "RelativeDocumentMoniker": "exe\\install.c",
               "ToolTip": "C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\install.c",
               "RelativeToolTip": "exe\\install.c",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAArwO4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T12:49:37.531Z",
+              "WhenOpened": "2025-05-18T21:15:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testapp.c",
+              "DocumentMoniker": "C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\testapp.c",
+              "RelativeDocumentMoniker": "exe\\testapp.c",
+              "ToolTip": "C:\\Users\\khami\\source\\repos\\MyDriverWDM\\exe\\testapp.c",
+              "RelativeToolTip": "exe\\testapp.c",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T15:26:53.291Z",
               "EditorCaption": ""
             }
           ]

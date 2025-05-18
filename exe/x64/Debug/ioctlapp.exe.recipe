@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\exe\x64\Debug\ioctlapp.exe</FullPath>
+      <FullPath>C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\ioctlapp.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

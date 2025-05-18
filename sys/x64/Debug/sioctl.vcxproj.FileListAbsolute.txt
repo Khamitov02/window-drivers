@@ -1,1 +1,0 @@
-C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\sys\x64\Debug\sioctl.sys

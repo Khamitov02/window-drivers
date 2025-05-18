@@ -1,9 +1,0 @@
-﻿  Building 'sioctl' with toolset 'WindowsKernelModeDriver10.0' and the 'Windows Driver' target platform.
-  sioctl.c
-  sioctl.vcxproj -> C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\sys\x64\Debug\sioctl.sys
-  Done Adding Additional Store
-  Successfully signed: C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\sys\x64\Debug\sioctl.sys
-  
-  Driver is 'Windows Driver'.
-  Inf2Cat task was skipped as there were no inf files to process
-  

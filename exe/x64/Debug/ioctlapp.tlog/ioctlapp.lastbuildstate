@@ -1,2 +1,2 @@
 PlatformToolSet=WindowsApplicationForDrivers10.0:VCToolArchitecture=Native64Bit:VCToolsVersion=14.41.34120:TargetPlatformVersion=10.0.26100.0:
-Debug|x64|C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\|
+Debug|x64|C:\Users\khami\source\repos\MyDriverWDM\|

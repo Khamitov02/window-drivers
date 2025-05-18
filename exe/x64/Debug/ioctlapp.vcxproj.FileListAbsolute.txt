@@ -1,1 +1,42 @@
-C:\Users\khami\source\repos\Windows-driver-samples\general\ioctl\wdm\exe\x64\Debug\ioctlapp.exe
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\ioctlapp.vcxproj.Up2Date
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\ioctlapp.exe
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\concrt140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\msvcp140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\msvcp140d_atomic_wait.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\msvcp140d_codecvt_ids.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\msvcp140_1d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\msvcp140_2d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vccorlib140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vcruntime140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vcruntime140_1d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vcruntime140_threadsd.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vcamp140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\mfc140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\mfc140ud.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\mfcm140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\mfcm140ud.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\vcomp140d.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\libomp140.x86_64.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\libomp140d.x86_64.dll
+C:\Users\khami\Downloads\mipt-10s-driver-task-1 (1)\mipt-10s-driver-task-1\exe\x64\Debug\ucrtbased.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\ioctlapp.vcxproj.Up2Date
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\spyapp.exe
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\concrt140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\msvcp140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\msvcp140d_atomic_wait.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\msvcp140d_codecvt_ids.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\msvcp140_1d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\msvcp140_2d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vccorlib140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vcruntime140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vcruntime140_1d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vcruntime140_threadsd.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vcamp140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\mfc140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\mfc140ud.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\mfcm140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\mfcm140ud.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\vcomp140d.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\libomp140.x86_64.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\libomp140d.x86_64.dll
+C:\Users\khami\source\repos\MyDriverWDM\exe\x64\Debug\ucrtbased.dll
